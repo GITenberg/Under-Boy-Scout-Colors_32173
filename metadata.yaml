@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '32647'
     url: http://www.gutenberg.org/2009/agents/32647
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32173#Under-Boy-Scout-Colors
 gutenberg_issued: '2010-04-29'
 gutenberg_type: Text
 identifiers:
